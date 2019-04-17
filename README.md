@@ -1,1 +1,2 @@
-# Large_Scale_Data_Mining
+# Large Scale Data Mining
+#### Course Projects - UCLA ECE219
